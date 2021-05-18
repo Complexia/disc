@@ -12,95 +12,95 @@ function App() {
           <div className="totalScore">Work setting</div>
           <Row>
             <Col>Row 1</Col>
-            <Col>Directing - 3</Col>
-            <Col>Influencing - 2</Col>
-            <Col>Steady - 1</Col>
+            <Col>Directing - 1</Col>
+            <Col>Influencing - 4</Col>
+            <Col>Steady - 3</Col>
             <Col>Cautious - 2</Col>
-            <Col><p className="rowTotal">Total - 8</p></Col>
+            <Col><p className="rowTotal">Total - 10</p></Col>
           </Row>
 
           <Row>
             <Col>Row 2</Col>
             <Col>Self-Certain - 2</Col>
-            <Col>Optimistic - 1</Col>
-            <Col>Deliberate - 2</Col>
-            <Col>Restrained - 2</Col>
-            <Col><p className="rowTotal">Total - 7</p></Col>
+            <Col>Optimistic - 4</Col>
+            <Col>Deliberate - 3</Col>
+            <Col>Restrained - 1</Col>
+            <Col><p className="rowTotal">Total - 10</p></Col>
           </Row>
 
           <Row>
             <Col>Row 3</Col>
-            <Col>Adventurous - 1</Col>
-            <Col>Enthusiastic - 1</Col>
-            <Col>Predictable - 2</Col>
-            <Col>Logical - 1</Col>
+            <Col>Adventurous - 4</Col>
+            <Col>Enthusiastic - 3</Col>
+            <Col>Predictable - 1</Col>
+            <Col>Logical - 2</Col>
             <Col><p className="rowTotal">Total - 5</p></Col>
           </Row>
 
           <Row>
             <Col>Row 4</Col>
-            <Col>Decisive - 1</Col>
-            <Col>Open - 1</Col>
-            <Col>Patient - 1</Col>
+            <Col>Decisive - 4</Col>
+            <Col>Open - 3</Col>
+            <Col>Patient - 2</Col>
             <Col>Analytical - 1</Col>
-            <Col><p className="rowTotal">Total - 4</p></Col>
+            <Col><p className="rowTotal">Total - 10</p></Col>
           </Row>
 
           <Row>
             <Col>Row 5</Col>
             <Col>Daring - 2</Col>
-            <Col>Impulsive - 4</Col>
-            <Col>Stabilising - 2</Col>
-            <Col>Precise - 1</Col>
-            <Col><p className="rowTotal">Total - 9</p></Col>
+            <Col>Impulsive - 1</Col>
+            <Col>Stabilising - 3</Col>
+            <Col>Precise - 4</Col>
+            <Col><p className="rowTotal">Total - 10</p></Col>
           </Row>
 
           <Row>
             <Col>Row 6</Col>
             <Col>Restless - 4</Col>
-            <Col>Emotional - 3</Col>
+            <Col>Emotional - 2</Col>
             <Col>Protective - 3</Col>
-            <Col>Doubting - 2</Col>
-            <Col><p className="rowTotal">Total - 12</p></Col>
+            <Col>Doubting - 1</Col>
+            <Col><p className="rowTotal">Total - 10</p></Col>
           </Row>
 
           <Row>
             <Col>Row 7</Col>
-            <Col>Competitive - 2</Col>
-            <Col>Persuading - 2</Col>
-            <Col>Accomodating - 1</Col>
-            <Col>Curious - 1</Col>
-            <Col><p className="rowTotal">Total - 6</p></Col>
+            <Col>Competitive - 1</Col>
+            <Col>Persuading - 3</Col>
+            <Col>Accomodating - 2</Col>
+            <Col>Curious - 4</Col>
+            <Col><p className="rowTotal">Total - 10</p></Col>
           </Row>
 
           <Row>
             <Col>Row 8</Col>
-            <Col>Assertive - 2</Col>
+            <Col>Assertive - 4</Col>
             <Col>Talkative - 2</Col>
-            <Col>Modest - 1</Col>
-            <Col>Tactful - 2</Col>
-            <Col><p className="rowTotal">Total - 7</p></Col>
+            <Col>Modest - 3</Col>
+            <Col>Tactful - 1</Col>
+            <Col><p className="rowTotal">Total - 10</p></Col>
           </Row>
 
           <Row>
             <Col>Row 9</Col>
-            <Col>Experimenting - 1</Col>
-            <Col>Charming - 1</Col>
-            <Col>Easy-going - 2</Col>
-            <Col>Consistent - 1</Col>
-            <Col><p className="rowTotal">Total - 5</p></Col>
+            <Col>Experimenting - 4</Col>
+            <Col>Charming - 3</Col>
+            <Col>Easy-going - 1</Col>
+            <Col>Consistent - 2</Col>
+            <Col><p className="rowTotal">Total - 10</p></Col>
           </Row>
 
           <Row>
             <Col>Row 10</Col>
-            <Col>Forceful - 4</Col>
+            <Col>Forceful - 1</Col>
             <Col>Sensitive - 3</Col>
-            <Col>Sincere - 1</Col>
+            <Col>Sincere - 4</Col>
             <Col>Perfectionist - 2</Col>
             <Col><p className="rowTotal">Total - 10</p></Col>
           </Row>
 
-          <div className="totalScore">Total score = 73</div>
+          <div className="totalScore">Total score = 100</div>
 
           
         </Container>
@@ -111,95 +111,95 @@ function App() {
           <div className="totalScore">Home setting</div>
           <Row>
             <Col>Row 1</Col>
-            <Col>Directing - 3</Col>
-            <Col>Influencing - 1</Col>
-            <Col>Steady - 1</Col>
+            <Col>Directing - 1</Col>
+            <Col>Influencing - 3</Col>
+            <Col>Steady - 4</Col>
             <Col>Cautious - 2</Col>
-            <Col><p className="rowTotal">Total - 7</p></Col>
+            <Col><p className="rowTotal">Total - 10</p></Col>
           </Row>
 
           <Row>
             <Col>Row 2</Col>
-            <Col>Self-Certain - 2</Col>
-            <Col>Optimistic - 1</Col>
+            <Col>Self-Certain - 3</Col>
+            <Col>Optimistic - 4</Col>
             <Col>Deliberate - 2</Col>
-            <Col>Restrained - 4</Col>
-            <Col><p className="rowTotal">Total - 9</p></Col>
+            <Col>Restrained - 1</Col>
+            <Col><p className="rowTotal">Total - 10</p></Col>
           </Row>
 
           <Row>
             <Col>Row 3</Col>
-            <Col>Adventurous - 1</Col>
-            <Col>Enthusiastic - 1</Col>
-            <Col>Predictable - 3</Col>
+            <Col>Adventurous - 4</Col>
+            <Col>Enthusiastic - 3</Col>
+            <Col>Predictable - 1</Col>
             <Col>Logical - 2</Col>
-            <Col><p className="rowTotal">Total - 7</p></Col>
+            <Col><p className="rowTotal">Total - 10</p></Col>
           </Row>
 
           <Row>
             <Col>Row 4</Col>
-            <Col>Decisive - 1</Col>
-            <Col>Open - 1</Col>
-            <Col>Patient - 1</Col>
-            <Col>Analytical - 2</Col>
-            <Col><p className="rowTotal">Total - 5</p></Col>
+            <Col>Decisive - 2</Col>
+            <Col>Open - 4</Col>
+            <Col>Patient - 3</Col>
+            <Col>Analytical - 1</Col>
+            <Col><p className="rowTotal">Total - 10</p></Col>
           </Row>
 
           <Row>
             <Col>Row 5</Col>
-            <Col>Daring - 1</Col>
-            <Col>Impulsive - 4</Col>
-            <Col>Stabilising - 1</Col>
+            <Col>Daring - 3</Col>
+            <Col>Impulsive - 1</Col>
+            <Col>Stabilising - 4</Col>
             <Col>Precise - 2</Col>
-            <Col><p className="rowTotal">Total - 7</p></Col>
+            <Col><p className="rowTotal">Total - 10</p></Col>
           </Row>
 
           <Row>
             <Col>Row 6</Col>
-            <Col>Restless - 4</Col>
+            <Col>Restless - 1</Col>
             <Col>Emotional - 3</Col>
-            <Col>Protective - 2</Col>
-            <Col>Doubting - 4</Col>
-            <Col><p className="rowTotal">Total - 13</p></Col>
+            <Col>Protective - 4</Col>
+            <Col>Doubting - 2</Col>
+            <Col><p className="rowTotal">Total - 10</p></Col>
           </Row>
 
           <Row>
             <Col>Row 7</Col>
-            <Col>Competitive - 4</Col>
+            <Col>Competitive - 1</Col>
             <Col>Persuading - 2</Col>
-            <Col>Accomodating - 1</Col>
-            <Col>Curious - 1</Col>
-            <Col><p className="rowTotal">Total - 8</p></Col>
+            <Col>Accomodating - 3</Col>
+            <Col>Curious - 4</Col>
+            <Col><p className="rowTotal">Total - 10</p></Col>
           </Row>
 
           <Row>
             <Col>Row 8</Col>
-            <Col>Assertive - 2</Col>
-            <Col>Talkative - 1</Col>
-            <Col>Modest - 1</Col>
+            <Col>Assertive - 1</Col>
+            <Col>Talkative - 4</Col>
+            <Col>Modest - 3</Col>
             <Col>Tactful - 2</Col>
-            <Col><p className="rowTotal">Total - 6</p></Col>
+            <Col><p className="rowTotal">Total - 10</p></Col>
           </Row>
 
           <Row>
             <Col>Row 9</Col>
             <Col>Experimenting - 1</Col>
-            <Col>Charming - 1</Col>
-            <Col>Easy-going - 1</Col>
-            <Col>Consistent - 1</Col>
-            <Col><p className="rowTotal">Total - 4</p></Col>
+            <Col>Charming - 3</Col>
+            <Col>Easy-going - 4</Col>
+            <Col>Consistent - 2</Col>
+            <Col><p className="rowTotal">Total - 10</p></Col>
           </Row>
 
           <Row>
             <Col>Row 10</Col>
-            <Col>Forceful - 4</Col>
+            <Col>Forceful - 1</Col>
             <Col>Sensitive - 3</Col>
-            <Col>Sincere - 1</Col>
-            <Col>Perfectionist - 4</Col>
-            <Col><p className="rowTotal">Total - 12</p></Col>
+            <Col>Sincere - 4</Col>
+            <Col>Perfectionist - 2</Col>
+            <Col><p className="rowTotal">Total - 10</p></Col>
           </Row>
 
-          <div className="totalScore">Total score = 78</div>
+          <div className="totalScore">Total score = 100</div>
 
           
         </Container>
