@@ -16,7 +16,7 @@ function App() {
             <Col>Influencing - 4</Col>
             <Col>Steady - 3</Col>
             <Col>Cautious - 2</Col>
-            <Col><p className="rowTotal">Total - 10</p></Col>
+            
           </Row>
 
           <Row>
@@ -25,7 +25,7 @@ function App() {
             <Col>Optimistic - 4</Col>
             <Col>Deliberate - 3</Col>
             <Col>Restrained - 1</Col>
-            <Col><p className="rowTotal">Total - 10</p></Col>
+            
           </Row>
 
           <Row>
@@ -34,7 +34,7 @@ function App() {
             <Col>Enthusiastic - 3</Col>
             <Col>Predictable - 1</Col>
             <Col>Logical - 2</Col>
-            <Col><p className="rowTotal">Total - 5</p></Col>
+            
           </Row>
 
           <Row>
@@ -43,7 +43,7 @@ function App() {
             <Col>Open - 3</Col>
             <Col>Patient - 2</Col>
             <Col>Analytical - 1</Col>
-            <Col><p className="rowTotal">Total - 10</p></Col>
+            
           </Row>
 
           <Row>
@@ -52,7 +52,7 @@ function App() {
             <Col>Impulsive - 1</Col>
             <Col>Stabilising - 3</Col>
             <Col>Precise - 4</Col>
-            <Col><p className="rowTotal">Total - 10</p></Col>
+            
           </Row>
 
           <Row>
@@ -61,7 +61,7 @@ function App() {
             <Col>Emotional - 2</Col>
             <Col>Protective - 3</Col>
             <Col>Doubting - 1</Col>
-            <Col><p className="rowTotal">Total - 10</p></Col>
+            
           </Row>
 
           <Row>
@@ -70,7 +70,7 @@ function App() {
             <Col>Persuading - 3</Col>
             <Col>Accomodating - 2</Col>
             <Col>Curious - 4</Col>
-            <Col><p className="rowTotal">Total - 10</p></Col>
+            
           </Row>
 
           <Row>
@@ -79,7 +79,7 @@ function App() {
             <Col>Talkative - 2</Col>
             <Col>Modest - 3</Col>
             <Col>Tactful - 1</Col>
-            <Col><p className="rowTotal">Total - 10</p></Col>
+            
           </Row>
 
           <Row>
@@ -88,7 +88,7 @@ function App() {
             <Col>Charming - 3</Col>
             <Col>Easy-going - 1</Col>
             <Col>Consistent - 2</Col>
-            <Col><p className="rowTotal">Total - 10</p></Col>
+            
           </Row>
 
           <Row>
@@ -97,10 +97,16 @@ function App() {
             <Col>Sensitive - 3</Col>
             <Col>Sincere - 4</Col>
             <Col>Perfectionist - 2</Col>
-            <Col><p className="rowTotal">Total - 10</p></Col>
+            
           </Row>
 
-          <div className="totalScore">Total score = 100</div>
+          <Row>
+            <Col><p className="rowTotal">-</p></Col>
+            <Col><p className="rowTotal">Row 1 total - 27</p></Col>
+            <Col><p className="rowTotal">Row 2 total - 28</p></Col>
+            <Col><p className="rowTotal">Row 3 total - 25</p></Col>
+            <Col><p className="rowTotal">Row 4 total - 20</p></Col>
+          </Row>
 
           
         </Container>
@@ -115,7 +121,7 @@ function App() {
             <Col>Influencing - 3</Col>
             <Col>Steady - 4</Col>
             <Col>Cautious - 2</Col>
-            <Col><p className="rowTotal">Total - 10</p></Col>
+            
           </Row>
 
           <Row>
@@ -124,7 +130,7 @@ function App() {
             <Col>Optimistic - 4</Col>
             <Col>Deliberate - 2</Col>
             <Col>Restrained - 1</Col>
-            <Col><p className="rowTotal">Total - 10</p></Col>
+            
           </Row>
 
           <Row>
@@ -133,7 +139,7 @@ function App() {
             <Col>Enthusiastic - 3</Col>
             <Col>Predictable - 1</Col>
             <Col>Logical - 2</Col>
-            <Col><p className="rowTotal">Total - 10</p></Col>
+            
           </Row>
 
           <Row>
@@ -142,7 +148,7 @@ function App() {
             <Col>Open - 4</Col>
             <Col>Patient - 3</Col>
             <Col>Analytical - 1</Col>
-            <Col><p className="rowTotal">Total - 10</p></Col>
+            
           </Row>
 
           <Row>
@@ -151,7 +157,7 @@ function App() {
             <Col>Impulsive - 1</Col>
             <Col>Stabilising - 4</Col>
             <Col>Precise - 2</Col>
-            <Col><p className="rowTotal">Total - 10</p></Col>
+            
           </Row>
 
           <Row>
@@ -160,7 +166,7 @@ function App() {
             <Col>Emotional - 3</Col>
             <Col>Protective - 4</Col>
             <Col>Doubting - 2</Col>
-            <Col><p className="rowTotal">Total - 10</p></Col>
+            
           </Row>
 
           <Row>
@@ -169,7 +175,7 @@ function App() {
             <Col>Persuading - 2</Col>
             <Col>Accomodating - 3</Col>
             <Col>Curious - 4</Col>
-            <Col><p className="rowTotal">Total - 10</p></Col>
+            
           </Row>
 
           <Row>
@@ -178,7 +184,7 @@ function App() {
             <Col>Talkative - 4</Col>
             <Col>Modest - 3</Col>
             <Col>Tactful - 2</Col>
-            <Col><p className="rowTotal">Total - 10</p></Col>
+            
           </Row>
 
           <Row>
@@ -187,7 +193,7 @@ function App() {
             <Col>Charming - 3</Col>
             <Col>Easy-going - 4</Col>
             <Col>Consistent - 2</Col>
-            <Col><p className="rowTotal">Total - 10</p></Col>
+            
           </Row>
 
           <Row>
@@ -196,10 +202,18 @@ function App() {
             <Col>Sensitive - 3</Col>
             <Col>Sincere - 4</Col>
             <Col>Perfectionist - 2</Col>
-            <Col><p className="rowTotal">Total - 10</p></Col>
+            
           </Row>
 
-          <div className="totalScore">Total score = 100</div>
+          
+          <Row>
+            <Col><p className="rowTotal">-</p></Col>
+            <Col><p className="rowTotal">Row 1 total - 18</p></Col>
+            <Col><p className="rowTotal">Row 2 total - 30</p></Col>
+            <Col><p className="rowTotal">Row 3 total - 32</p></Col>
+            <Col><p className="rowTotal">Row 4 total - 20</p></Col>
+          </Row>
+          
 
           
         </Container>
